@@ -1,5 +1,5 @@
-def convertToF(celsius):
+def convert_to_f(celsius):
     fahrenheit = celsius * (9 * 5) + 32
     return fahrenheit
 
-print(convertToF(0))
+print(convert_to_f(0))
